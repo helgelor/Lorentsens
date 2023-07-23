@@ -11,7 +11,7 @@ De som ønsker å bidra til dette fellesprosjektet, kan deretter legge inn famil
 fra sin egen PC tilbake til GitHub. Husk å legge med en kommentar når du laster opp 
 databasefilen til GitHub igjen.
 
-Programmet som er benyttet for å lage (og event redigere) denne datbasefilen heter
+Gratisprogrammet som er benyttet for å lage (og event redigere) denne datbasefilen heter
 MyFamilyTree, og kan lastes ned fra:
  
 https://chronoplexsoftware.com/myfamilytree/updates/index.php
