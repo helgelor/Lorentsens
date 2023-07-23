@@ -22,7 +22,7 @@ Last deretter ned databasefilen lorentsens.familyx fra dette repoet til din egen
 Start programmet MyFamilyTree og velg alternative Åpne... og velg den nedlastde filen
 Lorentsens.familyx. 
 
-I tillegg kan man også laste ned en språkpakke for å få programmet med norsk bokmål.
+I tillegg kan man også laste ned en språkpakke for å få programmet til å bruke norsk bokmål.
 Den må is såfall innstalleres via Tools/Options/Localizatons menyen.
 I menyvalget Display Language, Velg Norsk Bokmål.
 Du må deretter lukke Options menyen for å få Norsk Bokmål.
