@@ -12,8 +12,10 @@ fra sin egen PC tilbake til GitHub. Husk å legge med en kommentar når du laste
 databasefilen til GitHub igjen.
 
 Programmet som er benyttet for å lage (og event redigere) denne datbasefilen heter
-MyFamilyTree, og kan lastes ned fra: 
+MyFamilyTree, og kan lastes ned fra:
+ 
 https://chronoplexsoftware.com/myfamilytree/updates/index.php
+
 Etter at programmet er lastet ned, må du installere det på din egen PC.
 
 Last deretter ned databasefilen lorentsens.familyx fra GitHub til din egen harddisk.
