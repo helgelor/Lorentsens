@@ -18,7 +18,7 @@ https://chronoplexsoftware.com/myfamilytree/updates/index.php
 
 Etter at programmet er lastet ned, må du installere det på din egen PC.
 
-Last deretter ned databasefilen lorentsens.familyx fra GitHub til din egen harddisk.
+Last deretter ned databasefilen lorentsens.familyx fra dette repoet til din egen harddisk.
 Start programmet MyFamilyTree og velg alternative Åpne... og velg den nedlastde filen
 Lorentsens.familyx. 
 
